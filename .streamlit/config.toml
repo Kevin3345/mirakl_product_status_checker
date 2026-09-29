@@ -1,0 +1,19 @@
+[client]
+showErrorDetails = "stacktrace"
+toolbarMode = "minimal"
+
+[theme]
+base="dark"
+primaryColor="#5E60D2"
+backgroundColor="#1e272e"
+secondaryBackgroundColor="#2a333c"
+
+textColor="#e6e6ea"
+font="Quicksand:https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap"
+
+baseRadius="0.875rem"
+buttonRadius="0.4rem"
+
+dataframeHeaderBackgroundColor="#141f25"
+
+showSidebarBorder = true

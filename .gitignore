@@ -1,0 +1,22 @@
+# Environnements et caches Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Secrets et configuration locale
+.env
+.env.*
+.streamlit/secrets.toml
+
+# Exports de données
+*.xlsx
+*.xls
+*.csv
+
+# Logs et IDE
+*.log
+log.txt
+.idea/
+.vscode/
